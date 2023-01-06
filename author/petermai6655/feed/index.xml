@@ -9,8 +9,8 @@
 
 <channel>
 	<title>petermai6655 &#8211; Peter L. Mai</title>
-	<atom:link href="https://petermai6655.github.io/PeterLMai/author/petermai6655/feed/" rel="self" type="application/rss+xml" />
-	<link>https://petermai6655.github.io/PeterLMai</link>
+	<atom:link href="https://peterlmai.com/author/petermai6655/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peterlmai.com</link>
 	<description></description>
 	<lastBuildDate>Fri, 06 Jan 2023 06:25:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://petermai6655.github.io/PeterLMai/2023/01/06/hello-world/</link>
-					<comments>https://petermai6655.github.io/PeterLMai/2023/01/06/hello-world/#comments</comments>
+		<link>https://peterlmai.com/2023/01/06/hello-world/</link>
+					<comments>https://peterlmai.com/2023/01/06/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[petermai6655]]></dc:creator>
 		<pubDate>Fri, 06 Jan 2023 06:25:38 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://petermai6655.github.io/PeterLMai/?p=1</guid>
+		<guid isPermaLink="false">https://peterlmai.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://petermai6655.github.io/PeterLMai/2023/01/06/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://peterlmai.com/2023/01/06/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

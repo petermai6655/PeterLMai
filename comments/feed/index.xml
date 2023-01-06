@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Peter L. Mai	</title>
-	<atom:link href="https://petermai6655.github.io/PeterLMai/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://petermai6655.github.io/PeterLMai</link>
+	<atom:link href="https://peterlmai.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peterlmai.com</link>
 	<description></description>
 	<lastBuildDate>Fri, 06 Jan 2023 06:25:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://petermai6655.github.io/PeterLMai/2023/01/06/hello-world/#comment-1</link>
+		<link>https://peterlmai.com/2023/01/06/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 06 Jan 2023 06:25:38 +0000</pubDate>
-		<guid isPermaLink="false">https://petermai6655.github.io/PeterLMai/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://peterlmai.com/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
